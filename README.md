@@ -23,6 +23,16 @@
 > 从认识小豆，到把 AI 融入生活和工作，再到验证可持续的商业模式。  
 > 不贩卖成功学，只记录真实过程。
 
+## 🎟️ 小豆邀请码雷达
+
+[![打开邀请码雷达](https://img.shields.io/badge/打开邀请码雷达-查看最新候选码-3478e9?style=for-the-badge)](https://liudali333.github.io/xiaodou-lab/invite-radar/)
+
+[**点击进入邀请码雷达 →**](https://liudali333.github.io/xiaodou-lab/invite-radar/) · [X 最新搜索](https://x.com/search?q=%E5%B0%8F%E8%B1%86%20%E9%82%80%E8%AF%B7%E7%A0%81&f=live) · [运行说明](docs/invite-radar/README.md)
+
+候选码未经验证，请查看原帖确认；本站不自动兑换。当前线上版本尚未配置 X API，社区数据接入仍在开发中，码池可能为空。
+
+---
+
 ## 01 · 三本皮书
 
 <table>
@@ -81,16 +91,6 @@
 价格与功能以实际版本和账号页面为准。媒体报道与项目独立实测分开记录。
 
 [信息来源](research/sources.md) · [更新日志](research/changelog.md)
-
-## 邀请码雷达 · Invite Radar
-
-自动发现 X 上疑似公开分享的小豆邀请码，去重并保留原帖链接。候选码未经验证，不自动兑换，不提供交易服务。
-
-- [打开邀请码雷达（Pages 部署后可访问）](https://liudali333.github.io/xiaodou-lab/invite-radar/)
-- [配置与运行说明](docs/invite-radar/README.md)
-- [X 实时搜索](https://x.com/search?q=%E5%B0%8F%E8%B1%86%20%E9%82%80%E8%AF%B7%E7%A0%81&f=live)
-
-当前需配置 X API 授权并启用 GitHub Pages；尚无真实扫描结果。
 
 ## 03 · 实战资源
 
