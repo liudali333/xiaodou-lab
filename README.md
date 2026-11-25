@@ -82,6 +82,16 @@
 
 [信息来源](research/sources.md) · [更新日志](research/changelog.md)
 
+## 邀请码雷达 · Invite Radar
+
+自动发现 X 上疑似公开分享的小豆邀请码，去重并保留原帖链接。候选码未经验证，不自动兑换，不提供交易服务。
+
+- [打开邀请码雷达（Pages 部署后可访问）](https://liudali333.github.io/xiaodou-lab/invite-radar/)
+- [配置与运行说明](docs/invite-radar/README.md)
+- [X 实时搜索](https://x.com/search?q=%E5%B0%8F%E8%B1%86%20%E9%82%80%E8%AF%B7%E7%A0%81&f=live)
+
+当前需配置 X API 授权并启用 GitHub Pages；尚无真实扫描结果。
+
 ## 03 · 实战资源
 
 **拿来就用的指令和工作流。** 以下是可复用的实践模板，不代表所有任务已经在小豆上成功执行。
