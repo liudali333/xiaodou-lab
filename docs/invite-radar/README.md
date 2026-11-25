@@ -19,3 +19,13 @@
 代码：scripts/invite_radar.py；页面：site/invite-radar/index.html；工作流：.github/workflows/invite-radar.yml。
 
 当前未完成实际 X 授权及 Pages 部署验证。请遵守 X 开发者协议及小豆邀请码规则；如禁止公开转载候选码，应停用本功能。
+
+## 无 API 的人工收录
+
+编辑 `site/invite-radar/manual.json`，在 `items` 中添加对象，例如：
+
+```json
+{"items":[{"code":"ABC123","post_id":"1234567890123456789","created_at":"2026-11-25T00:00:00Z"}]}
+```
+
+示例是占位数据，请勿作为真实邀请码发布。`post_id` 是公开 X 原帖链接中 `/status/` 后的数字；时间使用原帖时间（UTC）。先核对原帖确有主动公开分享意愿；不要提交凭证、私人消息、求码或售卖内容。删除记录即可撤下。页面按邀请码不区分大小写去重，人工记录优先；不会验证或兑换。提交到 main 后 Pages 工作流会部署，人工数据不依赖 API，也不会被扫描覆盖。列表数量包含人工记录；扫描帖子数与最后更新时间仅代表扫描快照。
