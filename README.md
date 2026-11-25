@@ -29,7 +29,7 @@
 
 [**点击进入邀请码雷达 →**](https://liudali333.github.io/xiaodou-lab/invite-radar/) · [X 最新搜索](https://x.com/search?q=%E5%B0%8F%E8%B1%86%20%E9%82%80%E8%AF%B7%E7%A0%81&f=live) · [运行说明](docs/invite-radar/README.md)
 
-候选码未经验证，请查看原帖确认；本站不自动兑换。当前线上版本尚未配置 X API，社区数据接入仍在开发中，码池可能为空。
+候选码未经验证，请查看原帖确认；本站不自动兑换。页面定时读取社区公开数据，无需配置 X API；数据可能延迟或失效。
 
 ---
 
