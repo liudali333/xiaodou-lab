@@ -8,6 +8,7 @@ on:
     paths:
       - 'site/**'
       - 'scripts/invite_radar.py'
+      - 'scripts/import_community.py'
       - '.github/workflows/invite-radar.yml'
 permissions:
   contents: read
@@ -29,6 +30,8 @@ jobs:
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: python scripts/invite_radar.py
+      - name: Import public community snapshot
+        run: python scripts/import_community.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
