@@ -1,5 +1,7 @@
 <div align="center">
 
+![小豆研究所系列封面](assets/lab-banner.svg)
+
 # 小豆研究所 · Xiaodou Lab
 
 **从 0 到 1 学会 AI 个人助理，从个人效率到商业实践。**
