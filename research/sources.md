@@ -11,6 +11,8 @@
 | [凤凰网科技](https://original.ifeng.com/c/8yJJyKUoUis) | 2026-11-24 | 应用上架及订阅报道，价格待官方商店复核 |
 | [IT之家转载](https://finance.sina.com.cn/tech/digi/2026-11-24/doc-inizvecm2214654.shtml) | 2026-11-24 | 商店功能描述及授权边界 |
 
-待验证：正式下载链接、安卓渠道、地区限制、精确套餐价格、额度消耗、记忆删除与数据留存、第三方连接清单、后台任务可靠性。涉及价格与功能的冲突报道不作为定论。
+补充：[2026-11-25 公测首日深度调研与来源索引](2026-11-25-deep-dive.md)；已找到[中国大陆 App Store](https://apps.apple.com/cn/app/id6815582077) 官方商店页及订阅标价。
+
+待验证：安卓渠道、地区限制、套餐对应额度及消耗、记忆删除与数据留存、第三方连接实际权限、后台任务可靠性。涉及价格与功能的冲突报道不作为定论。
 
 竞品入口（供进一步调研，尚未按统一协议测试）：[OpenClaw](https://github.com/openclaw/openclaw)、[Codex](https://openai.com/codex/)、[Claude Code](https://code.claude.com/docs/)。Grok Bot 和 Muse 的具体版本待社区明确。
