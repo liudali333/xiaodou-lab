@@ -106,6 +106,7 @@
 | 🤝 AI 服务 | 客户需求梳理、交付计划、人工审核 |
 | 📊 商业分析 | 回款、成本、利润、有效时薪 |
 
+- [小豆实操手册](docs/practical-guide/README.md)：从低风险练习、授权到额度复盘
 - [提示词库](examples/prompts.md)：可直接复制的指令模板
 - [工作流模板](examples/workflows.md)：任务输入、操作流程、验收和失败处理
 - [蓝皮书评测协议](docs/blue-paper/README.md)：用真实记录验证能力
