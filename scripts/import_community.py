@@ -22,7 +22,7 @@ def convert(payload):
         if code.casefold() in seen:
             continue
         seen.add(code.casefold())
-        items.append({"code": code, "post_id": post, "created_at": row.get("postedAtUtc") if isinstance(row.get("postedAtUtc"), str) else "", "source": "community"})
+        items.append({"code": code, "post_id": post, "created_at": row.get("postedAtUtc") if isinstance(row.get("postedAtUtc"), str) else "", "source": "community", "source_status": row.get("status") if row.get("status") in ("maybe_available", "maybe_used", "confirmed_used") else "unverified"})
     return {"source_updated_at": payload.get("lastUpdated"), "items": items}
 
 def main():
